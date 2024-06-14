@@ -11,6 +11,9 @@
     <li>Used Confluent Python wrapper to implement Producer and Consumer applications.</li>
     <li>Implemented SASL_SSL security protocol between Kafka Brokers and Producer/Consumer</li>
     <li>Below example showing 50 records sent from the Producer application to the Kafka Cluster and received by the Consumer application.</li>
-    <li>![kafka-python-output](https://github.com/Kshitij-AI/Kafka-Producer-Consumer-Python/assets/66180841/51f6bc98-9ab0-4766-949f-f3d1d01ecff4)</li>
+    <li>https://github.com/Kshitij-AI/Kafka-Producer-Consumer-Python/assets/66180841/e0770b1d-210f-4686-8bfb-36d58c016324</li>
   </ul>
 </ul>
+
+
+
